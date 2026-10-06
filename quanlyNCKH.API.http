@@ -1,0 +1,6 @@
+@quanlyNCKH.API_HostAddress = http://localhost:5115
+
+GET {{quanlyNCKH.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
